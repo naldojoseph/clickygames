@@ -2,12 +2,12 @@ import React, { Component } from "react";
 import MatchCard from "./components/MatchCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import matches from "./matchcards.json";
+import matches from "./Match.json";
 import "./App.css";
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "Let's see how well your memory is! Click on the image to earn a point. However, you can't click on the same image twice!";
+let clickMessage = "Click on the image to earn a point. However, you can't click on the same image twice!";
 
 class App extends Component {
     
@@ -35,7 +35,7 @@ class App extends Component {
             console.log ("Best Score: " + bestScore);
 
             correctGuesses = 0;
-            clickMessage = "You have clicked this one. Try again!"
+            clickMessage = "You have clicked this one. Let's try again!"
 
             for (let i = 0 ; i < matches.length ; i++){
                 matches[i].clicked = false;
