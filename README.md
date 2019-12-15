@@ -1,3 +1,9 @@
+# Shrek Clicky Memory Game
+This is a memory game built with React.js. The goal of the game is simple, using your mouse, CLICK each of Shrek faces cards in whatever order you chose - the order does not matter, only that you do not click the same card twice!
+
+# Technology Used
+React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
