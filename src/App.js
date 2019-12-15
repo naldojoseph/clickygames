@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import MatchCard from "./components/MatchCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import matches from "./Match.json";
 import "./App.css";
+import MatchCard from "./components/MatchCard";
 
 let correctGuesses = 0;
 let bestScore = 0;
