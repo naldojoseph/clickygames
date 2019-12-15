@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/naldojoseph/clickygames/static/css/main.482b4b60.chunk.css",
-    "main.js": "/naldojoseph/clickygames/static/js/main.d5864cf1.chunk.js",
-    "main.js.map": "/naldojoseph/clickygames/static/js/main.d5864cf1.chunk.js.map",
-    "runtime-main.js": "/naldojoseph/clickygames/static/js/runtime-main.16db320d.js",
-    "runtime-main.js.map": "/naldojoseph/clickygames/static/js/runtime-main.16db320d.js.map",
-    "static/js/2.97563678.chunk.js": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js",
-    "static/js/2.97563678.chunk.js.map": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js.map",
-    "index.html": "/naldojoseph/clickygames/index.html",
-    "precache-manifest.881ba20314927efe73d69597ab21c574.js": "/naldojoseph/clickygames/precache-manifest.881ba20314927efe73d69597ab21c574.js",
-    "service-worker.js": "/naldojoseph/clickygames/service-worker.js",
-    "static/css/main.482b4b60.chunk.css.map": "/naldojoseph/clickygames/static/css/main.482b4b60.chunk.css.map",
-    "static/js/2.97563678.chunk.js.LICENSE": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js.LICENSE"
+    "main.css": "/clickygames/static/css/main.482b4b60.chunk.css",
+    "main.js": "/clickygames/static/js/main.d5864cf1.chunk.js",
+    "main.js.map": "/clickygames/static/js/main.d5864cf1.chunk.js.map",
+    "runtime-main.js": "/clickygames/static/js/runtime-main.ffe90a5a.js",
+    "runtime-main.js.map": "/clickygames/static/js/runtime-main.ffe90a5a.js.map",
+    "static/js/2.97563678.chunk.js": "/clickygames/static/js/2.97563678.chunk.js",
+    "static/js/2.97563678.chunk.js.map": "/clickygames/static/js/2.97563678.chunk.js.map",
+    "index.html": "/clickygames/index.html",
+    "precache-manifest.5f4d49acc22bdd822cf433b1a7007191.js": "/clickygames/precache-manifest.5f4d49acc22bdd822cf433b1a7007191.js",
+    "service-worker.js": "/clickygames/service-worker.js",
+    "static/css/main.482b4b60.chunk.css.map": "/clickygames/static/css/main.482b4b60.chunk.css.map",
+    "static/js/2.97563678.chunk.js.LICENSE": "/clickygames/static/js/2.97563678.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.16db320d.js",
+    "static/js/runtime-main.ffe90a5a.js",
     "static/js/2.97563678.chunk.js",
     "static/css/main.482b4b60.chunk.css",
     "static/js/main.d5864cf1.chunk.js"
