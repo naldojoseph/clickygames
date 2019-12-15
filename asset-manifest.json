@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/naldojoseph/clickygames/static/css/main.d1b05096.chunk.css",
-    "main.js": "/naldojoseph/clickygames/static/js/main.463d545b.chunk.js",
-    "main.js.map": "/naldojoseph/clickygames/static/js/main.463d545b.chunk.js.map",
+    "main.css": "/naldojoseph/clickygames/static/css/main.482b4b60.chunk.css",
+    "main.js": "/naldojoseph/clickygames/static/js/main.d5864cf1.chunk.js",
+    "main.js.map": "/naldojoseph/clickygames/static/js/main.d5864cf1.chunk.js.map",
     "runtime-main.js": "/naldojoseph/clickygames/static/js/runtime-main.16db320d.js",
     "runtime-main.js.map": "/naldojoseph/clickygames/static/js/runtime-main.16db320d.js.map",
-    "static/js/2.52b56fb8.chunk.js": "/naldojoseph/clickygames/static/js/2.52b56fb8.chunk.js",
-    "static/js/2.52b56fb8.chunk.js.map": "/naldojoseph/clickygames/static/js/2.52b56fb8.chunk.js.map",
+    "static/js/2.97563678.chunk.js": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js",
+    "static/js/2.97563678.chunk.js.map": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js.map",
     "index.html": "/naldojoseph/clickygames/index.html",
-    "precache-manifest.5e9634b37ce030a917cc0da86e7977a5.js": "/naldojoseph/clickygames/precache-manifest.5e9634b37ce030a917cc0da86e7977a5.js",
+    "precache-manifest.881ba20314927efe73d69597ab21c574.js": "/naldojoseph/clickygames/precache-manifest.881ba20314927efe73d69597ab21c574.js",
     "service-worker.js": "/naldojoseph/clickygames/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/naldojoseph/clickygames/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.52b56fb8.chunk.js.LICENSE": "/naldojoseph/clickygames/static/js/2.52b56fb8.chunk.js.LICENSE",
-    "static/media/logo.svg": "/naldojoseph/clickygames/static/media/logo.5d5d9eef.svg"
+    "static/css/main.482b4b60.chunk.css.map": "/naldojoseph/clickygames/static/css/main.482b4b60.chunk.css.map",
+    "static/js/2.97563678.chunk.js.LICENSE": "/naldojoseph/clickygames/static/js/2.97563678.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.16db320d.js",
-    "static/js/2.52b56fb8.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.463d545b.chunk.js"
+    "static/js/2.97563678.chunk.js",
+    "static/css/main.482b4b60.chunk.css",
+    "static/js/main.d5864cf1.chunk.js"
   ]
 }
